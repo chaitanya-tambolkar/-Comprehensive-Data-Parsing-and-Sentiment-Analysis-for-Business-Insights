@@ -48,8 +48,7 @@ It summarises the key insights, methodology, and visualisations derived from the
 🔗 **Watch the full presentation here:**  
 [https://drive.google.com/drive/folders/18313XU9vvmJDmgo023uNeYQO0idB3yUB](https://drive.google.com/drive/folders/18313XU9vvmJDmgo023uNeYQO0idB3yUB)
 
-  **    ** Workflow of the project  ** 
-            ┌────────────────────────┐
+             ┌────────────────────────┐
             │   Raw Data (TXT/XLSX)   │
             └────────────┬───────────┘
                          │
@@ -81,7 +80,4 @@ It summarises the key insights, methodology, and visualisations derived from the
             ┌────────────────────────┐
             │ Task 5: Documentation  │
             │ → Development History  │
-            └────────────────────────┘ **
-
-
-
+            └────────────────────────┘
